@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraNGalery</string>
+    <string name="select">Select</string>
+    <string name="todo">TODO</string>
+    <string name="picture_galerry">Image from gallery</string>
+    <string name="choose">Choose</string>
+    <string name="Camera">Camera</string>
+</resources>
